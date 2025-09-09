@@ -1,6 +1,4 @@
-# Selecting-Intervals-for-Piecewise-Continuous-Sampling
-
-# Piecewise Continuous Shiny App
+# Piecewise Continuous Sampling Shiny App
 
 This repository contains a single R script, **`piecewiseContinuousShinyApp.R`**, which launches a Shiny app for conducting **piecewise continuous sampling** of animal behavior.
 
