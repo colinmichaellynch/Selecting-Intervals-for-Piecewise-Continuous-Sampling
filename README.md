@@ -54,12 +54,3 @@ If you use this tool in your research, please cite:
 
 Lynch, C. M., Bespalova, I., Harrison, J. F., Pratt, S. C., Pavlic, T. P., & Fewell, J. H. (2025). Piecewise continuous sampling: Balancing effort and accuracy in behavioral observations. *Ethology.* (in press).
 
-## License
-
-Specify a license (e.g., MIT) if you intend others to reuse/modify the code.
-
-## Issues and Contributions
-
-- Please open issues for bugs or feature requests.
-- Pull requests are welcome (e.g., exporting intervals, adding seed control, or enabling custom distributions over interval lengths).
-
