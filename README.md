@@ -1,6 +1,6 @@
 # Piecewise Continuous Sampling Shiny App
 
-This repository contains a single R script, **`piecewiseContinuousShinyApp.R`**, which launches a Shiny app for conducting **piecewise continuous sampling** of animal behavior.
+This repository contains a single R script, **`piecewiseContinuousShinyApp.R`**, which launches a Shiny app for conducting **piecewise continuous sampling** of animal behavior. I want to thank Dr. Tara Harris and the Phoenix Zoo for providing the funding to produce this application and for providing feedback on its development. 
 
 ## What is Piecewise Continuous Sampling?
 
